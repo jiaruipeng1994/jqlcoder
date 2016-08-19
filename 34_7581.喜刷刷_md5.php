@@ -1,6 +1,6 @@
 <?php
 
-// 程序运行时间: 441 min
+// 程序运行时间: 307 min
 
 //这里有一个最帅coder评选排行榜… http://www.qlcoder.com/train/handsomerank
 //用户可以上传他认为最帅的coder的名字及其头像，并为他点赞…
